@@ -16,7 +16,11 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 #Learning Arabic Language Game
-
+<div style="overflow: hidden;">
+    <p style="float: left;">content1</p>
+    <p style="float: right;">content2</p>
+</div>
+<p style="float: left;">content1</p> <p style="float: left;">content1</p>
 <!DOCTYPE html>
 <html lang="en">
 
