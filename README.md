@@ -16,32 +16,13 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 #Learning Arabic Language Game
+
+
 <div style="overflow: hidden;">
     <p style="float: left;">content1</p>
     <p style="float: right;">content2</p>
 </div>
-<p style="float: left;">content1</p> <p style="float: left;">content1</p>
-<!DOCTYPE html>
-<html lang="en">
 
-<body>
-  <div id="banner" style="overflow: hidden; display: inline-block;">
-   <div class="image" style="max-width: 20%; max-height: 20%; display: inline-block;">
-       <img src="screens/game1.png">
-   </div>
-
-  <div class="image" style="max-width: 100%; max-height: 100%; display: inline-block;">
-       <img src="screens/game2.png">
-  </div>
-
-  <div class="image" style="max-width: 20%; max-height: 20%; display: inline-block;">
-       <img src="screens/game3.png">
-  </div>
-    </div>
-
-
-</body>
-</html>
 
 
 
