@@ -17,6 +17,6 @@ samples, guidance on mobile development, and a full API reference.
 
 #Learning Arabic Language Game
 
-<p align="center"><img src="game1.png" width="300"></p> <p align="center"><img src="game2.png" width="300"></p> <p align="center"><img src="game3.png" width="300"></p>
-<p align="center"><img src="game4.png" width="300"></p> <p align="center"><img src="game5.png" width="300"></p> <p align="center"><img src="game6.png" width="300"></p>
-<p align="center"><img src="game7.png" width="300"></p> <p align="center"><img src="game8.png" width="300"></p>
+<p align="center"><img src="screens/game1.png" width="300"></p> <p align="center"><img src="screens/game2.png" width="300"></p> <p align="center"><img src="screens/game3.png" width="300"></p>
+<p align="center"><img src="screens/game4.png" width="300"></p> <p align="center"><img src="screens/game5.png" width="300"></p> <p align="center"><img src="screens/game6.png" width="300"></p>
+<p align="center"><img src="screens/game7.png" width="300"></p> <p align="center"><img src="screens/game8.png" width="300"></p>
