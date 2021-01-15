@@ -19,6 +19,6 @@ samples, guidance on mobile development, and a full API reference.
 
 
 
-<img src="screens/game1.png" width="300"> | <img src="screens/game2.png" width="300" > | <img src="screens/game3.png" width="300" > | <img src="screens/game4.png" width="300" >
-<img src="screens/game5.png" width="300"> | <img src="screens/game6.png" width="300" > | <img src="screens/game7.png" width="300" > | <img src="screens/game8.png" width="300" >
+<img src="screens/game1.png" width="250"> | <img src="screens/game2.png" width="250" > | <img src="screens/game3.png" width="250" > | <img src="screens/game4.png" width="250" >
+<img src="screens/game5.png" width="250"> | <img src="screens/game6.png" width="250" > | <img src="screens/game7.png" width="250" > | <img src="screens/game8.png" width="250" >
 
