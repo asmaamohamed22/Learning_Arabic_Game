@@ -18,19 +18,7 @@ samples, guidance on mobile development, and a full API reference.
 #Learning Arabic Language Game
 
 
-<html>
 
-<body>
-    <img src="screens/game1.png" style=" display: inline;
-            width: 100px;
-            height: 100px;">
-    <h1>afdsgdf dfgsdf dsfgf</h1>
-    <img src="screens/game2.png" style=" display: inline;
-            width: 100px;
-            height: 100px;">
-</body>
-
-</html>
-
+<img src="screens/game1.png" > | <img src="screens/game2.png" 
 
 
