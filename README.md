@@ -17,17 +17,39 @@ samples, guidance on mobile development, and a full API reference.
 
 #Learning Arabic Language Game
 
- <div id="banner" style="overflow: hidden;justify-content:space-around;">
-    <div class="" style=" display: inline-block;">
-        <img src="screens/game1.png">
-    </div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
 
-   <div class="" style="display: inline-block;">
-        <img src="screens/game2.png">
+<title>Modern Studio </title>
+
+<style>
+.image {
+display: inline-block;
+}
+
+</style>
+
+</head>
+
+<body>
+  <div id="banner" style="overflow: hidden; display: inline-block;">
+   <div class="image" style="max-width: 20%; max-height: 20%;">
+       <img src="screens/game1.png">
    </div>
 
- </div>
+  <div class="image" style="max-width: 100%; max-height: 100%;">
+       <img src="screens/game2.png">
+  </div>
 
+  <div class="image" style="max-width: 20%; max-height: 20%;">
+       <img src="screens/game3.png">
+  </div>
+    </div>
+
+
+</body>
+</html>
 
 
 
