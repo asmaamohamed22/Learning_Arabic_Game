@@ -18,9 +18,11 @@ samples, guidance on mobile development, and a full API reference.
 #Learning Arabic Language Game
 
 
-<div style="overflow: hidden;">
-    <p style="float: left;">content1</p>
-    <p style="float: right;">content2</p>
+<div class="two" style="overflow: hidden; width: 30em; max-width: 100%;">
+ 
+  <p style="display: inline-block; max-width: 50%; float:left;">This is the first paragraph of two.</p>
+  <p style="display: inline-block; max-width: 50%; float:left;">This is the second paragraph of two.</p>
+
 </div>
 
 
