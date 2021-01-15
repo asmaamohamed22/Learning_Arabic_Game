@@ -18,13 +18,29 @@ samples, guidance on mobile development, and a full API reference.
 #Learning Arabic Language Game
 
 
-<div class="two" style="overflow: hidden; width: 30em; max-width: 100%;">
- 
-  <p style="display: inline-block; max-width: 50%; float:left;">This is the first paragraph of two.</p>
-  <p style="display: inline-block; max-width: 50%; float:left;">This is the second paragraph of two.</p>
+<html>
 
-</div>
+<head>
+    <title></title>
+    <style>
+        img {
+            display: inline;
+            width: 100px;
+            height: 100px;
+        }
+        h1 {
+            display: inline;
+        }
+    </style>
+</head>
 
+<body>
+    <img src="screens/game1.png">
+    <h1>afdsgdf dfgsdf dsfgf</h1>
+    <img src="screens/game2.png">
+</body>
+
+</html>
 
 
 
