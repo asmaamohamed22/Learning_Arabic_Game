@@ -37,7 +37,7 @@ class _SplashState extends State<Splash> {
             height: size.height * 0.03,
           ),
           SpinKitThreeBounce(
-            size: 45.0,
+            size: 40.0,
             color: kBackground,
           ),
         ],
