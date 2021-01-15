@@ -16,8 +16,26 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 #Learning Arabic Language Game
+* { box-sizing: border-box; }
+.two { width: 30em; max-width: 100%; }
+.two p { display: inline-block; max-width: 50%; }
+.two p:nth-child(1) { float:left; }
+.two p:nth-child(2) { float:right; }
+<div class="two">
+    <p align="center"><img src="screens/game1.png" width="300"></p> 
+    <p align="center"><img src="screens/game2.png" width="300"></p>
+</div>
+<div class="two">
+    <p align="center"><img src="screens/game3.png" width="300"></p> 
+    <p align="center"><img src="screens/game4.png" width="300"></p>
+</div>
+<div class="two">
+    <p align="center"><img src="screens/game5.png" width="300"></p> 
+    <p align="center"><img src="screens/game6.png" width="300"></p>
+</div>
+<div class="two">
+    <p align="center"><img src="screens/game7.png" width="300"></p> 
+    <p align="center"><img src="screens/game8.png" width="300"></p>
+</div>
 
-<p align="center"><img src="screens/game1.png" width="300"></p> </br> <p align="center"><img src="screens/game2.png" width="300"></p>
-<p align="center"><img src="screens/game3.png" width="300"></p> </br> <p align="center"><img src="screens/game4.png" width="300"></p>
-<p align="center"><img src="screens/game5.png" width="300"></p> </br> <p align="center"><img src="screens/game6.png" width="300"></p>
-<p align="center"><img src="screens/game7.png" width="300"></p> </br> <p align="center"><img src="screens/game8.png" width="300"></p>
+
