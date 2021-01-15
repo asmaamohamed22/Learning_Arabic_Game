@@ -16,11 +16,13 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 #Learning Arabic Language Game
+<style>
 * { box-sizing: border-box; }
 .two { width: 30em; max-width: 100%; }
 .two p { display: inline-block; max-width: 50%; }
 .two p:nth-child(1) { float:left; }
 .two p:nth-child(2) { float:right; }
+ </style>
 <div class="two">
     <p align="center"><img src="screens/game1.png" width="300"></p> 
     <p align="center"><img src="screens/game2.png" width="300"></p>
