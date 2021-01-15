@@ -20,24 +20,14 @@ samples, guidance on mobile development, and a full API reference.
 
 <html>
 
-<head>
-    <title></title>
-    <style>
-        img {
-            display: inline;
-            width: 100px;
-            height: 100px;
-        }
-        h1 {
-            display: inline;
-        }
-    </style>
-</head>
-
 <body>
-    <img src="screens/game1.png">
+    <img src="screens/game1.png" style=" display: inline;
+            width: 100px;
+            height: 100px;">
     <h1>afdsgdf dfgsdf dsfgf</h1>
-    <img src="screens/game2.png">
+    <img src="screens/game2.png" style=" display: inline;
+            width: 100px;
+            height: 100px;">
 </body>
 
 </html>
