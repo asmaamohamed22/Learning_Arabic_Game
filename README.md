@@ -18,11 +18,11 @@ samples, guidance on mobile development, and a full API reference.
 #Learning Arabic Language Game
 
  <div id="banner" style="overflow: hidden;justify-content:space-around;">
-    <div class="" style="max-width: 20%;max-height: 20%;display: inline-block;">
+    <div class="" style="max-width: 20%; max-height: 20%; display: inline-block;">
         <img src="screens/game1.png">
     </div>
 
-   <div class="" style="max-width: 100%;max-height: 100%;display: inline-block;">
+   <div class="" style="max-width: 20%; max-height: 20%; display: inline-block;">
         <img src="screens/game2.png">
    </div>
 
