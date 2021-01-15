@@ -19,30 +19,18 @@ samples, guidance on mobile development, and a full API reference.
 
 <!DOCTYPE html>
 <html lang="en">
-<head>
-
-<title>Modern Studio </title>
-
-<style>
-.image {
-display: inline-block;
-}
-
-</style>
-
-</head>
 
 <body>
   <div id="banner" style="overflow: hidden; display: inline-block;">
-   <div class="image" style="max-width: 20%; max-height: 20%;">
+   <div class="image" style="max-width: 20%; max-height: 20%; display: inline-block;">
        <img src="screens/game1.png">
    </div>
 
-  <div class="image" style="max-width: 100%; max-height: 100%;">
+  <div class="image" style="max-width: 100%; max-height: 100%; display: inline-block;">
        <img src="screens/game2.png">
   </div>
 
-  <div class="image" style="max-width: 20%; max-height: 20%;">
+  <div class="image" style="max-width: 20%; max-height: 20%; display: inline-block;">
        <img src="screens/game3.png">
   </div>
     </div>
